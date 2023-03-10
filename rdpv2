@@ -1,0 +1,4 @@
+
+cmdkey /generic:TERMSRV/"ваш сервак" /user:"логин" /pass:"пароль"
+mstsc /v:"ваш сервак"
+cmdkey /delete:TERMSRV/"ваш сервак
